@@ -3,7 +3,7 @@
 
 -- List of supported games with their PlaceIds and script URLs
 local gameScripts = {
-    [93814145359936] = "https://raw.githubusercontent.com/lumecraftor/Scriptupdates/refs/heads/main/BeeMasterSimulator", -- Bee King Simulator
+    [91551835221909] = "https://raw.githubusercontent.com/lumecraftor/Script-s/refs/heads/main/BeeKingSimulator", -- Bee King Simulator
 }
 
 -- Get the current game's PlaceId
